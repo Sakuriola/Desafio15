@@ -106,6 +106,9 @@ section {
   margin: 20px 0;
   font-weight: bold;
 }
+.shop .productosDiv .products-masonry-container {
+  margin: auto;
+}
 
 .divFormulario {
   justify-content: center;
